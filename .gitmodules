@@ -1,0 +1,3 @@
+[submodule "PCB/lib/pmw3360-breakout"]
+	path = PCB/lib/pmw3360-breakout
+	url = https://github.com/jfedor2/pmw3360-breakout.git
